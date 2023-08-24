@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(61, 156, 123);
+}
+
+body{
+    background-color: rgb(231, 204, 255);
+}
+
+p{
+    text-align: center;
+}
+
+.namal{
+    color: rgb(26, 128, 128);
+}
+
+.namap{
+    color: rgb(160, 93, 11);
+}
+
+.agama{
+    color: rgb(32, 116, 116);
+}
+
+.ttl{
+    color: rgb(133, 3, 3);
+}
+
+.warga{
+    color: rgb(133, 82, 6);
+}
+
+.kerja{
+    color: rgb(77, 9, 141);
+}
+
+.hobbi{
+    color: blue;
+}
+
+.film{
+    color: rgb(14, 14, 128);
+}
+
+.brand{
+    color: rgb(81, 81, 235);
+}
+
+.pendidikan{
+    color: rgb(240, 70, 70);
+}
+
+.keluarga{
+    color: rgb(230, 135, 19);
+}
+
+.keterangan{
+    color: rgb(99, 12, 180);
+}
